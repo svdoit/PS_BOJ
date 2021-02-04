@@ -1,5 +1,5 @@
-A, B = input().split()
-A = int(A)
-B = int(B)
+a, b = input().split()
+A = int(a)
+B = int(b)
 
 print(A+B)
