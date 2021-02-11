@@ -4,4 +4,3 @@ B = int(b)
 
 print(A+B)
 
-
